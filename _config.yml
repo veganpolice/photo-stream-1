@@ -23,11 +23,11 @@ email: aaronrbg@gmail.com
 author:
   name: Aaron Rosenberg
   email: aaronrbg@gmail.com
-  website: https://mountainlife.tech
+  website: https://aaronr.info
 description: >- # this means to ignore newlines until "baseurl:"
   Aaron's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mountainlife.tech/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aaronr.info/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aaronrosenberg
 github_username: veganpolice
 instagram_username: hottubeveryday
